@@ -5,7 +5,7 @@ Students will be first grounded in the core of the Python computer programming l
 
 <!---https://catalog.barnard.edu/barnard-college/courses-instruction/course-search/?term=3&level=4000%2C9999&pl=0&ph=10&college=BC--->
 
-
+<!--- ''Life is short (You need Python).'' ---Bruce Eckel"--->\\
 <!---While covering core concepts like univariate and multivariate forecasting/evaluation of forecasts is critical, I believe we should also cover topics like approaching a forecasting a problem, wrangling with time series data/objects, advanced topics like neural networks for time series, hierarchical data, and practical issues when approaching a problem and implementing a solution.--->
 
 
