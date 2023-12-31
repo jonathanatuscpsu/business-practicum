@@ -1,6 +1,6 @@
 Welcome to Business Analytics Practicum (MGT 4803)! This practicum is intended to allow students to exercise their creative, questioning, analytic, problem-solving, and communication skills in a practical way.
 
-Students will be first grounded in the core of the Python computer programming language. Later in the semester, the course will turn to apply Python to important tasks routinely included in data science workflows, such as tasks relating to data wrangling (processing and transforming data in order to derive an informative and manageable data set).
+Students will be first grounded in the core of the Python computer programming language. Later in the semester, the course will turn to applying Python to important tasks routinely included in data science workflows, such as tasks relating to data wrangling (processing and transforming data in order to derive an informative and manageable data set).
 
 <!---https://catalog.barnard.edu/barnard-college/courses-instruction/course-search/?term=3&level=4000%2C9999&pl=0&ph=10&college=BC--->
 
