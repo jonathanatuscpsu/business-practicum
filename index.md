@@ -26,7 +26,11 @@ Welcome to Business Analytics Practicum (MGT 4803)! This practicum is intended t
 * Instructor: Zhaohu (Jonathan) Fan, Ph.D.
 * Office Information: Scheller 4144 (Scheller College of Business, Room 4144) 
 * Email: jonathan.fan@scheller.gatech.edu
+* When:  Tuesdays  & Thursdays 5:00 pm-6:15pm
+* Where: Scheller College of Business 203       
 * Office Hours: Tuesdays 3:30-4:30 pm & Thursdays 12:45-1:45 pm and by appointment
+              
+     
 
  
 Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
