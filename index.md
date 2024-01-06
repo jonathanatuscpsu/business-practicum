@@ -42,33 +42,6 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 |:-------------:|--------------|
 | **1**         | **[Introduction](Business-Programming-Lecture-1.pdf)** &nbsp;&nbsp;   |
 |               |  [Intro to Python](https://jonathanatuscpsu.github.io/Business-Programming/1A_Introduction_to_Python.html), [project demo](https://colab.research.google.com/drive/1Hxai0VZ5IjsGsqcaf5MDX93yu_NLUo1X?usp=sharing), and course outline|
-| **2**         | **[Basic Python](Business-Programming-Lecture-2.pdf)** &nbsp;&nbsp;   |
-|               | [Basic Python](Business-Programming-Lecture-3.pdf) |
-| **3**| **[Course Project](https://jonathanatuscpsu.github.io/Business-Programming/course-project.html)**  &nbsp;&nbsp; |
-|               | [Mastering Python's Built-in Debugging Tools: From Basic Syntax Errors to Advanced Exception Handling](Business-Programming-Lecture-4.pdf)   
-| **4**         | **[Navigating Python's Control Flow: Crafting Logic with Conditionals and Loops](Business-Programming-Lecture-5.pdf)** &nbsp;&nbsp;   |
-|               | [Mastering Lists in Python](Business-Programming-Lecture-6.pdf) |
-| **5**         | **[Crafting Modular Python: The Art and Science of Function Design](Business-Programming-Lecture-7.pdf)** &nbsp;&nbsp;  |
-|               | [Navigating Time and Date in Python: From Basic Timestamps to Advanced Time Zone Manipulations](Business-Programming-Lecture-8.pdf) |
-| **6**         | **[Deciphering Text Patterns with Python: Demystifying Regular Expressions](Business-Programming-Lecture-9.pdf)** &nbsp;&nbsp;   |
-|               | [Deciphering Text Patterns with Python: Demystifying Regular Expressions-II](Business-Programming-Lecture-10.pdf)
-| **7**         | **[Deciphering Text Patterns with Python: Demystifying Regular Expressions-III](Business-Programming-Lecture-11.pdf)** &nbsp;&nbsp;  |
-|               | [Harnessing Python's Core Collections: Dive Deep into Lists and Dictionaries](Business-Programming-Lecture-12.pdf) |
-|               | [Harnessing Python's Core Collections: Dive Deep into Lists and Dictionaries-II](Business-Programming-Lecture-13.pdf)|
-| **8**         | **[Harnessing Python's Core Collections: Dive Deep into Lists and Dictionaries-III](Business-Programming-Lecture-14.pdf)** &nbsp;&nbsp; |
-|               | [Object-Oriented Python: Unraveling the Power of Classes and Objects](Business-Programming-Lecture-15.pdf) |
-|               | [Midterm Preparation Guide](Business-Programming-Lecture-16.pdf) |
-| **9**         | **[Introduction to Course Project](Business-Programming-Lecture-17.pdf)** &nbsp;&nbsp;  |
-|               | Leveraging the Pandas to conduct data exploration    |
-| **10**        | **Data Visualizations** &nbsp;&nbsp; [Link]()  |
-|               | Data visualization basics|
-| **11**        | **Data Visualizations** &nbsp;&nbsp; [Link]()  |
-|               | Data visualization advanced|
-| **12**        | **Creating Online Dashboard** &nbsp;&nbsp; [Link]() |
-|               | Create dashboards that you can share with your colleague or client|
-| **13**        | **Efficient Coding in Python** &nbsp;&nbsp; [Link]() |
-|               |   |
-|               | |
 
 
 <!---Class videos, homework, and class projects are available in Canvas. Please check your homework in Canvas and submit all your homework through Canvas. All announcements are in Canvas.--->
