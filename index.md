@@ -72,6 +72,7 @@ Others:
 Others:
 - [Make an interactive Power BI dashboard from scratch in 15 minutes.](https://jakevdp.github.io/WhirlwindTourOfPython/index.tml) (Time-series)
 - Causal Inference
+- AB Testing, Product sense, business cases, and mock interview sessions.
   
 <!---must-have https://github.com/soltaniehha/Intro-to-Data-Analytics/blob/main/00-Python-Basics/01-Built-in-Scalar-Types.ipynb--->
 <!---must-have# resouce 1 https://freelearning.anaconda.cloud/jupyter-notebook-basics/46128--->
