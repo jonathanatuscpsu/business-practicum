@@ -1,5 +1,8 @@
 Welcome to Business Analytics Practicum (MGT 4803)! This practicum is intended to allow students to exercise their creative, questioning, analytic, problem-solving, and communication skills in a practical way.
 
+
+<!--- must to add--->
+
 <!---learn why and how models create their results.--->
 
 <!---“For most people, AI is like electricity: They don’t know how it works, only that it does work when they flip on a switch,” --->
