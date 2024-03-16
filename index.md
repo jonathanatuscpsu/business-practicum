@@ -88,6 +88,11 @@ Others:
 - AB Testing, Product sense, business cases, and mock interview sessions.
 <!---https://sites.stat.washington.edu/tsr/s566/syllabus566w18.pdf--->
 
+Tableau:
+- [Make an interactive Power BI dashboard from scratch in 15 minutes.](https://public.tableau.com/app/discover) (Time-series)
+
+Power BI dashboard:
+- [Make an interactive Power BI dashboard from scratch in 15 minutes.](https://public.tableau.com/app/discover) (Power BI dashboard)
 
 <!---https://courses.datainterview.com/courses/take/free-course/lessons/43555813-welcome-to-datainterview-com--->
 <!---must-have https://github.com/soltaniehha/Intro-to-Data-Analytics/blob/main/00-Python-Basics/01-Built-in-Scalar-Types.ipynb--->
