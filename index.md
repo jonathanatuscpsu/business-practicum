@@ -88,6 +88,7 @@ Others:
 - AB Testing, Product sense, business cases, and mock interview sessions.
 <!---https://sites.stat.washington.edu/tsr/s566/syllabus566w18.pdf--->
 
+Google Colab (lowering the learning barrier to the Python world):
 Tableau:
 - [Make an interactive Power BI dashboard from scratch in 15 minutes.](https://public.tableau.com/app/discover) (Time-series)
 
