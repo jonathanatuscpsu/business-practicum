@@ -1,4 +1,4 @@
-Welcome to Business Analytics Practicum (MGT 4803)! This practicum is intended to allow students to exercise their creative, questioning, analytic, problem-solving, and communication skills in a practical way.
+This practicum is intended to allow students to exercise their creative, questioning, analytic, problem-solving, and communication skills in a practical way.
 
 
 <!--- must to add--->
