@@ -68,7 +68,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
            *  Brian Chen, Industrial Engineering,
            *  Ean Girault, Business Administration - ITM.
            *  Narin Smith, MBA Mentor    
-      * [Scheller Sparck Squadron (Sparck)](https://www.scheller.gatech.edu/news/business-analytics-center/pix/scheller-sparck-squadron.jpg):
+        * [Scheller Sparck Squadron (Sparck)](https://www.scheller.gatech.edu/news/business-analytics-center/pix/scheller-sparck-squadron.jpg):
            *  Cindy Wei Zhou, Business Administration - ITM,
            *  Ruben Lechuga Gonzalez, Business Administration - ITM,
            *  Aidan Peairs, Aerospace Engineering, Team Leader,
