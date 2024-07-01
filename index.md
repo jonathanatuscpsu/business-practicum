@@ -55,7 +55,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
              *  Lucas Ruggieri, Business Administration - ITM,
              *  Hana Weji, Economics,
              *  Victor Sabioni, MBA Mentor
-       *  [Wet Paint Watchers (Home Depot)](https://www.scheller.gatech.edu/news/business-analytics-center/pix/wet-paint-watchers.jpg):
+         * [Wet Paint Watchers (Home Depot)](https://www.scheller.gatech.edu/news/business-analytics-center/pix/wet-paint-watchers.jpg):
             * Hector Melendez, Biomedical Engineering;
             * Bri Abreau, Biomedical Engineering, Team Leader;
             * Jasper Pilkenton, Business Administration – ITM,
