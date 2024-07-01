@@ -49,8 +49,13 @@ Communication Policy: Students are encouraged to contact me anytime via email or
     * **Media Coverage**  [Inside the Business Analytics Practicum: Students Deliver Insights and Innovative Ideas at Showcase](https://www.scheller.gatech.edu/news/business-analytics-center/inside-the-business-analytics-practicum-students-deliver-insights-and-innovative-ideas-at-showcase-news-article-bac.html)
     * **Selected Projects** 
        * **Home Depot**
-         *  [Casey Murphy](https://jonathanatuscpsu.github.io/Business-Programming/Casey-Murphy-MGT-3745-Hotel-Cancellations.pdf)
-         *  [Elaine Wen](https://jonathanatuscpsu.github.io/Business-Programming/Elaine-Wen-MGT-3745-Final-Project.pdf)
+         *  [TechSavvy Insights (Home Depot)](https://jonathanatuscpsu.github.io/Business-Programming/Elaine-Wen-MGT-3745-Final-Project.pdf):
+             *  Anish Yennam, Business Administration – ITM, Team Leader,
+             *  Ethan McCoy, Business Administration – ITM,
+             *  Lucas Ruggieri, Business Administration - ITM,
+             *  Hana Weji, Economics.
+             *  Victor Sabioni, MBA Mentor
+             
       * **Sparck Technologies and Thought Logic**
          *  [Jason Warner and Charles Hill](https://jonathanatuscpsu.github.io/Business-Programming/Jason-Warner-MGT-3745-final-project.pdf)
          *  [Jason Warner and Charles Hill](https://jonathanatuscpsu.github.io/Business-Programming/Jason-Warner-MGT-3745-final-project.pdf)
