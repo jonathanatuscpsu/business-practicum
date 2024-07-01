@@ -48,29 +48,29 @@ Communication Policy: Students are encouraged to contact me anytime via email or
     * **Selected Projects** 
        * **Home Depot**
          *  [TechSavvy Insights (Home Depot)](https://www.scheller.gatech.edu/news/business-analytics-center/pix/techsavvy-insights.jpg):
-             *  Anish Yennam, Business Administration – ITM, Team Leader,
-             *  Ethan McCoy, Business Administration – ITM,
-             *  Lucas Ruggieri, Business Administration - ITM,
-             *  Hana Weji, Economics,
+             *  Anish Yennam, Business Administration – ITM, Team Leader
+             *  Ethan McCoy, Business Administration – ITM
+             *  Lucas Ruggieri, Business Administration - ITM
+             *  Hana Weji, Economics
              *  Victor Sabioni, MBA Mentor
          * [Wet Paint Watchers (Home Depot)](https://www.scheller.gatech.edu/news/business-analytics-center/pix/wet-paint-watchers.jpg):
-            * Hector Melendez, Biomedical Engineering,
-            * Bri Abreau, Biomedical Engineering, Team Leader,
-            * Jasper Pilkenton, Business Administration – ITM,
-            *  Richie Tran, Business Administration - ITM,
+            * Hector Melendez, Biomedical Engineering
+            * Bri Abreau, Biomedical Engineering, Team Leader
+            * Jasper Pilkenton, Business Administration – ITM
+            *  Richie Tran, Business Administration - ITM
             *  Davis King, MBA Mentor
       * **Sparck Technologies and Thought Logic**
         * [The Boxsters (Sparck)](https://www.scheller.gatech.edu/news/business-analytics-center/pix/boxsters.jpg):
-           * Joshua Oluwademilade Hambolu, Business Administration - ITM,
-           * Lake Boyer, Business Administration – ITM, Team Leader,
-           *  Brian Chen, Industrial Engineering,
-           *  Ean Girault, Business Administration - ITM.
+           * Joshua Oluwademilade Hambolu, Business Administration - ITM
+           * Lake Boyer, Business Administration – ITM, Team Leader
+           *  Brian Chen, Industrial Engineering
+           *  Ean Girault, Business Administration - ITM
            *  Narin Smith, MBA Mentor    
         * [Scheller Sparck Squadron (Sparck)](https://www.scheller.gatech.edu/news/business-analytics-center/pix/scheller-sparck-squadron.jpg):
-           *  Cindy Wei Zhou, Business Administration - ITM,
-           *  Ruben Lechuga Gonzalez, Business Administration - ITM,
-           *  Aidan Peairs, Aerospace Engineering, Team Leader,
-           *  Devarshi Patra, Business Administration – ITM,
+           *  Cindy Wei Zhou, Business Administration - ITM
+           *  Ruben Lechuga Gonzalez, Business Administration - ITM
+           *  Aidan Peairs, Aerospace Engineering, Team Leader
+           *  Devarshi Patra, Business Administration – ITM
            *  Jeffrey Campey, MBA Mentor
  
 ## Schedule (Lecture and Lab Notes)
