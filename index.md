@@ -53,9 +53,16 @@ Communication Policy: Students are encouraged to contact me anytime via email or
              *  Anish Yennam, Business Administration – ITM, Team Leader,
              *  Ethan McCoy, Business Administration – ITM,
              *  Lucas Ruggieri, Business Administration - ITM,
-             *  Hana Weji, Economics.
+             *  Hana Weji, Economics,
              *  Victor Sabioni, MBA Mentor
-             
+       *  [Wet Paint Watchers (Home Depot)](https://jonathanatuscpsu.github.io/Business-Programming/Elaine-Wen-MGT-3745-Final-Project.pdf):
+       *     Hector Melendez, Biomedical Engineering;
+       * Bri Abreau, Biomedical Engineering, Team Leader; Jasper Pilkenton, Business Administration – ITM; and Richie Tran, Business Administration - ITM. Not pictured: Davis King, MBA Mentor
+             *  Anish Yennam, Business Administration – ITM, Team Leader,
+             *  Ethan McCoy, Business Administration – ITM,
+             *  Lucas Ruggieri, Business Administration - ITM,
+             *  Hana Weji, Economics,
+             *  Victor Sabioni, MBA Mentor 
       * **Sparck Technologies and Thought Logic**
          *  [Jason Warner and Charles Hill](https://jonathanatuscpsu.github.io/Business-Programming/Jason-Warner-MGT-3745-final-project.pdf)
          *  [Jason Warner and Charles Hill](https://jonathanatuscpsu.github.io/Business-Programming/Jason-Warner-MGT-3745-final-project.pdf)
