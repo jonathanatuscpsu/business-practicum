@@ -48,6 +48,20 @@ This practicum is intended to allow students to exercise their creative, questio
  
 Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
 
+ * Cohort from 2024 Spring
+    * [Course Project](https://jonathanatuscpsu.github.io/Business-Programming/course-project.html)
+    * Selected Projects
+       * Hotel Bookings Data Analysis
+         *  [Casey Murphy](https://jonathanatuscpsu.github.io/Business-Programming/Casey-Murphy-MGT-3745-Hotel-Cancellations.pdf)
+         *  [Elaine Wen](https://jonathanatuscpsu.github.io/Business-Programming/Elaine-Wen-MGT-3745-Final-Project.pdf)
+      * Petfinder.com Dog Data Analysis
+      * NFL Attendance Data Analysis
+      * Spotify Genre Data Analysis
+         *  [Kevin Dong](https://jonathanatuscpsu.github.io/Business-Programming/Kevin-MGT%203745-Spotify.pdf)
+         *  [Nekha Duraisamy and Geethika Thota](https://jonathanatuscpsu.github.io/Business-Programming/Nekha-Duraisamy-Geethika-Thota-Spotify-MGT3745-Final-Project.pdf)
+      * Crime Analytics & Intelligence
+         *  [Jason Warner and Charles Hill](https://jonathanatuscpsu.github.io/Business-Programming/Jason-Warner-MGT-3745-final-project.pdf)
+
 
 ## Schedule (Lecture and Lab Notes)
 
