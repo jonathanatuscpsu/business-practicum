@@ -7,8 +7,6 @@ This practicum is intended to allow students to exercise their creative, questio
 
 <!---“For most people, AI is like electricity: They don’t know how it works, only that it does work when they flip on a switch,” --->
 
-
-
 <!---https://coe.gatech.edu/news/2024/01/college-adds-reimagines-ai-courses-undergraduates?utm_source=newsletter&utm_medium=email&utm_content=https%3A//coe.gatech.edu/news/2024/01/college-adds-reimagines-ai-courses-undergraduates%20%5BOutlook%20Button%5D&utm_campaign=Daily%20Digest%20-%20Jan.%2023%2C%202024#fall-2023-courses --->
 
 
