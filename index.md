@@ -60,7 +60,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
             *  Richie Tran, Business Administration - ITM,
             *  Davis King, MBA Mentor
       * **Sparck Technologies and Thought Logic**
-        * [The Boxsters (Sparck)](https://www.scheller.gatech.edu/news/business-analytics-center/pix/wet-paint-watchers.jpg):
+        * [The Boxsters (Sparck)](https://www.scheller.gatech.edu/news/business-analytics-center/pix/boxsters.jpg):
            * Joshua Oluwademilade Hambolu, Business Administration - ITM,
            * Lake Boyer, Business Administration – ITM, Team Leader,
            *  Brian Chen, Industrial Engineering,
