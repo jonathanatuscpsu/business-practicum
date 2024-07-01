@@ -43,12 +43,10 @@ This practicum is intended to allow students to exercise their creative, questio
 * Where: Scheller College of Business 203       
 * Office Hours: Tuesdays 3:30-4:30 pm & Thursdays 12:45-1:45 pm and by appointment
               
-     
-
- 
 Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
 
-### Cohort from 2024 Spring 
+## Cohort from 2024 Spring 
+
     * **Media Coverage**  [Inside the Business Analytics Practicum: Students Deliver Insights and Innovative Ideas at Showcase](https://www.scheller.gatech.edu/news/business-analytics-center/inside-the-business-analytics-practicum-students-deliver-insights-and-innovative-ideas-at-showcase-news-article-bac.html)
     * **Selected Projects** 
        * **Home Depot**
