@@ -54,7 +54,6 @@ Communication Policy: Students are encouraged to contact me anytime via email or
        * Home Depot
          *  [Casey Murphy](https://jonathanatuscpsu.github.io/Business-Programming/Casey-Murphy-MGT-3745-Hotel-Cancellations.pdf)
          *  [Elaine Wen](https://jonathanatuscpsu.github.io/Business-Programming/Elaine-Wen-MGT-3745-Final-Project.pdf)
-      * Crime Analytics & Intelligence
       * Sparck Technologies and Thought Logic
          *  [Jason Warner and Charles Hill](https://jonathanatuscpsu.github.io/Business-Programming/Jason-Warner-MGT-3745-final-project.pdf)
          *  [Jason Warner and Charles Hill](https://jonathanatuscpsu.github.io/Business-Programming/Jason-Warner-MGT-3745-final-project.pdf)
