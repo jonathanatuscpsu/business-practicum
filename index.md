@@ -49,14 +49,14 @@ Communication Policy: Students are encouraged to contact me anytime via email or
     * **Media Coverage**  [Inside the Business Analytics Practicum: Students Deliver Insights and Innovative Ideas at Showcase](https://www.scheller.gatech.edu/news/business-analytics-center/inside-the-business-analytics-practicum-students-deliver-insights-and-innovative-ideas-at-showcase-news-article-bac.html)
     * **Selected Projects** 
        * **Home Depot**
-         *  [TechSavvy Insights (Home Depot)](https://jonathanatuscpsu.github.io/Business-Programming/Elaine-Wen-MGT-3745-Final-Project.pdf):
+         *  [TechSavvy Insights (Home Depot)](https://www.scheller.gatech.edu/news/business-analytics-center/pix/techsavvy-insights.jpg):
              *  Anish Yennam, Business Administration – ITM, Team Leader,
              *  Ethan McCoy, Business Administration – ITM,
              *  Lucas Ruggieri, Business Administration - ITM,
              *  Hana Weji, Economics,
              *  Victor Sabioni, MBA Mentor
        *  [Wet Paint Watchers (Home Depot)](https://jonathanatuscpsu.github.io/Business-Programming/Elaine-Wen-MGT-3745-Final-Project.pdf):
-       *     Hector Melendez, Biomedical Engineering;
+            * Hector Melendez, Biomedical Engineering;
        * Bri Abreau, Biomedical Engineering, Team Leader; Jasper Pilkenton, Business Administration – ITM; and Richie Tran, Business Administration - ITM. Not pictured: Davis King, MBA Mentor
              *  Anish Yennam, Business Administration – ITM, Team Leader,
              *  Ethan McCoy, Business Administration – ITM,
