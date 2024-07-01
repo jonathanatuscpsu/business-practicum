@@ -55,9 +55,14 @@ Communication Policy: Students are encouraged to contact me anytime via email or
              *  Lucas Ruggieri, Business Administration - ITM,
              *  Hana Weji, Economics,
              *  Victor Sabioni, MBA Mentor
-       *  [Wet Paint Watchers (Home Depot)](https://jonathanatuscpsu.github.io/Business-Programming/Elaine-Wen-MGT-3745-Final-Project.pdf):
+       *  [Wet Paint Watchers (Home Depot)](https://www.scheller.gatech.edu/news/business-analytics-center/pix/wet-paint-watchers.jpg):
             * Hector Melendez, Biomedical Engineering;
-       * Bri Abreau, Biomedical Engineering, Team Leader; Jasper Pilkenton, Business Administration – ITM; and Richie Tran, Business Administration - ITM. Not pictured: Davis King, MBA Mentor
+            * Bri Abreau, Biomedical Engineering, Team Leader;
+            * Jasper Pilkenton, Business Administration – ITM,
+            *  Richie Tran, Business Administration - ITM,
+            *  Davis King, MBA Mentor
+      
+            *  
              *  Anish Yennam, Business Administration – ITM, Team Leader,
              *  Ethan McCoy, Business Administration – ITM,
              *  Lucas Ruggieri, Business Administration - ITM,
