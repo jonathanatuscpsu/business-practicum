@@ -77,36 +77,36 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 
 | Week          | Description  |
 |:-------------:|--------------|
-| **1**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week1-Tuesday.pdf)** &nbsp;&nbsp;  |
-|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week1-Thursday.pdf)** &nbsp;&nbsp; |
-| **2**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week2-Tuesday.pdf)** &nbsp;&nbsp;  |
-|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week2-Thursday.pdf)** &nbsp;&nbsp; |
-| **3**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week3-Tuesday.pdf)** &nbsp;&nbsp;  |
-|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week3-Thursday.pdf)** &nbsp;&nbsp; |
-| **4**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week4-Tuesday.pdf)** &nbsp;&nbsp;  |
-|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week4-Thursday.pdf)** &nbsp;&nbsp; |
-| **5**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week5-Tuesday.pdf)** &nbsp;&nbsp;  |
-|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week5-Thursday.pdf)** &nbsp;&nbsp; |
-| **6**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week6-Tuesday.pdf)** &nbsp;&nbsp;  |
-|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week6-Thursday.pdf)** &nbsp;&nbsp; |
-| **7**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week7-Tuesday.pdf)** &nbsp;&nbsp;  |
-|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week7-Thursday.pdf)** &nbsp;&nbsp; |
-| **8**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week8-Tuesday.pdf)** &nbsp;&nbsp;  |
-|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week8-Thursday.pdf)** &nbsp;&nbsp; |
-| **9**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week9-Tuesday.pdf)** &nbsp;&nbsp;  |
-|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week9-Thursday.pdf)** &nbsp;&nbsp; |
-| **10**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week10-Tuesday.pdf)** &nbsp;&nbsp;  |
-|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week10-Thursday.pdf)** &nbsp;&nbsp; |
-| **11**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week11-Tuesday.pdf)** &nbsp;&nbsp;  |
-|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week11-Thursday.pdf)** &nbsp;&nbsp; |
-| **12**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week12-Tuesday.pdf)** &nbsp;&nbsp;  |
-|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week12-Thursday.pdf)** &nbsp;&nbsp; |
-| **13**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week13-Tuesday.pdf)** &nbsp;&nbsp;  |
-|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week13-Thursday.pdf)** &nbsp;&nbsp; |
-| **14**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week14-Tuesday.pdf)** &nbsp;&nbsp;  |
-|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week14-Thursday.pdf)** &nbsp;&nbsp; |
-| **15**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week15-Tuesday.pdf)** &nbsp;&nbsp;  |
-|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week15-Thursday.pdf)** &nbsp;&nbsp; |
+| **1**         |**[Week 1, Tuesday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week1-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Week 1,Thursday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week1-Thursday.pdf)** &nbsp;&nbsp; |
+| **2**         |**[Week 2, Tuesday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week2-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Week 2,Thursday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week2-Thursday.pdf)** &nbsp;&nbsp; |
+| **3**         |**[Week 3, Tuesday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week3-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Week 3,Thursday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week3-Thursday.pdf)** &nbsp;&nbsp; |
+| **4**         |**[Week 4, Tuesday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week4-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Week 4,Thursday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week4-Thursday.pdf)** &nbsp;&nbsp; |
+| **5**         |**[Week 5, Tuesday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week5-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Week 5,Thursday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week5-Thursday.pdf)** &nbsp;&nbsp; |
+| **6**         |**[Week 6, Tuesday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week6-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Week 6,Thursday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week6-Thursday.pdf)** &nbsp;&nbsp; |
+| **7**         |**[Week 7, Tuesday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week7-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Week 7,Thursday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week7-Thursday.pdf)** &nbsp;&nbsp; |
+| **8**         |**[Week 8, Tuesday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week8-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Week 8,Thursday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week8-Thursday.pdf)** &nbsp;&nbsp; |
+| **9**         |**[Week 9, Tuesday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week9-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Week 9,Thursday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week9-Thursday.pdf)** &nbsp;&nbsp; |
+| **10**         |**[Week 10, Tuesday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week10-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Week 10,Thursday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week10-Thursday.pdf)** &nbsp;&nbsp; |
+| **11**         |**[Week 11, Tuesday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week11-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Week 11,Thursday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week11-Thursday.pdf)** &nbsp;&nbsp; |
+| **12**         |**[Week 12, Tuesday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week12-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Week 12,Thursday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week12-Thursday.pdf)** &nbsp;&nbsp; |
+| **13**         |**[Week 13, Tuesday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week13-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Week 13,Thursday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week13-Thursday.pdf)** &nbsp;&nbsp; |
+| **14**         |**[Week 14, Tuesday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week14-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Week 14,Thursday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week14-Thursday.pdf)** &nbsp;&nbsp; |
+| **15**         |**[Week 15, Tuesday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week15-Tuesday.pdf)** &nbsp;&nbsp;  |
+
 
 
 
