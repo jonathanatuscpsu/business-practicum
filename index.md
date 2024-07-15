@@ -116,11 +116,11 @@ References:
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
 
 Book:
-- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html) (Book)
+- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html) 
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (Book)
-- [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730) (Book)
-- [Effective Python](https://effectivepython.com/) (Book)
+- [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) 
+- [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730) 
+- [Effective Python](https://effectivepython.com/) 
 
 <!---Many materials are from [Dr. Yan Yu](https://business.uc.edu/faculty-and-research/departments/obais/faculty/yan-yu.html)’s class notes. Others: - [Make an interactive Power BI dashboard from scratch in 15 minutes.](https://jakevdp.github.io/WhirlwindTourOfPython/index.tml) (Power BI for Business Analytics) --->
 
