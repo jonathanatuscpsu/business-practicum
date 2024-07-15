@@ -77,8 +77,8 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 
 | Week          | Description  |
 |:-------------:|--------------|
-| **1**         | **[Introduction](Business-Programming-Lecture-1.pdf)** &nbsp;&nbsp;   |
-|               |  [Intro to Python](https://jonathanatuscpsu.github.io/Business-Programming/1A_Introduction_to_Python.html), [project demo](https://colab.research.google.com/drive/1Hxai0VZ5IjsGsqcaf5MDX93yu_NLUo1X?usp=sharing), and course outline|
+| **1**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week1-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week1-Thursday.pdf)** &nbsp;&nbsp; |
 | **2**         | **[Basic Python](Business-Programming-Lecture-2.pdf)** &nbsp;&nbsp;   |
 |               | [Basic Python](Business-Programming-Lecture-3.pdf) |
 | **3**| **[Course Project](https://jonathanatuscpsu.github.io/Business-Programming/course-project.html)**  &nbsp;&nbsp; |
@@ -106,6 +106,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 | **13**        | **Efficient Coding in Python** &nbsp;&nbsp; [Link]() |
 |               |   |
 |               | |
+
 
 
 References:
