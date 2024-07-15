@@ -79,33 +79,34 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 |:-------------:|--------------|
 | **1**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week1-Tuesday.pdf)** &nbsp;&nbsp;  |
 |               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week1-Thursday.pdf)** &nbsp;&nbsp; |
-| **2**         | **[Basic Python](Business-Programming-Lecture-2.pdf)** &nbsp;&nbsp;   |
-|               | [Basic Python](Business-Programming-Lecture-3.pdf) |
-| **3**| **[Course Project](https://jonathanatuscpsu.github.io/Business-Programming/course-project.html)**  &nbsp;&nbsp; |
-|               | [Mastering Python's Built-in Debugging Tools: From Basic Syntax Errors to Advanced Exception Handling](Business-Programming-Lecture-4.pdf)   
-| **4**         | **[Navigating Python's Control Flow: Crafting Logic with Conditionals and Loops](Business-Programming-Lecture-5.pdf)** &nbsp;&nbsp;   |
-|               | [Mastering Lists in Python](Business-Programming-Lecture-6.pdf) |
-| **5**         | **[Crafting Modular Python: The Art and Science of Function Design](Business-Programming-Lecture-7.pdf)** &nbsp;&nbsp;  |
-|               | [Navigating Time and Date in Python: From Basic Timestamps to Advanced Time Zone Manipulations](Business-Programming-Lecture-8.pdf) |
-| **6**         | **[Deciphering Text Patterns with Python: Demystifying Regular Expressions](Business-Programming-Lecture-9.pdf)** &nbsp;&nbsp;   |
-|               | [Deciphering Text Patterns with Python: Demystifying Regular Expressions-II](Business-Programming-Lecture-10.pdf)
-| **7**         | **[Deciphering Text Patterns with Python: Demystifying Regular Expressions-III](Business-Programming-Lecture-11.pdf)** &nbsp;&nbsp;  |
-|               | [Harnessing Python's Core Collections: Dive Deep into Lists and Dictionaries](Business-Programming-Lecture-12.pdf) |
-|               | [Harnessing Python's Core Collections: Dive Deep into Lists and Dictionaries-II](Business-Programming-Lecture-13.pdf)|
-| **8**         | **[Harnessing Python's Core Collections: Dive Deep into Lists and Dictionaries-III](Business-Programming-Lecture-14.pdf)** &nbsp;&nbsp; |
-|               | [Object-Oriented Python: Unraveling the Power of Classes and Objects](Business-Programming-Lecture-15.pdf) |
-|               | [Midterm Preparation Guide](Business-Programming-Lecture-16.pdf) |
-| **9**         | **[Introduction to Course Project](Business-Programming-Lecture-17.pdf)** &nbsp;&nbsp;  |
-|               | Leveraging the Pandas to conduct data exploration    |
-| **10**        | **Data Visualizations** &nbsp;&nbsp; [Link]()  |
-|               | Data visualization basics|
-| **11**        | **Data Visualizations** &nbsp;&nbsp; [Link]()  |
-|               | Data visualization advanced|
-| **12**        | **Creating Online Dashboard** &nbsp;&nbsp; [Link]() |
-|               | Create dashboards that you can share with your colleague or client|
-| **13**        | **Efficient Coding in Python** &nbsp;&nbsp; [Link]() |
-|               |   |
-|               | |
+| **2**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week2-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week2-Thursday.pdf)** &nbsp;&nbsp; |
+| **3**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week3-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week3-Thursday.pdf)** &nbsp;&nbsp; |
+| **4**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week4-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week4-Thursday.pdf)** &nbsp;&nbsp; |
+| **5**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week5-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week5-Thursday.pdf)** &nbsp;&nbsp; |
+| **6**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week6-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week6-Thursday.pdf)** &nbsp;&nbsp; |
+| **7**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week7-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week7-Thursday.pdf)** &nbsp;&nbsp; |
+| **8**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week8-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week8-Thursday.pdf)** &nbsp;&nbsp; |
+| **9**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week9-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week9-Thursday.pdf)** &nbsp;&nbsp; |
+| **10**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week10-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week10-Thursday.pdf)** &nbsp;&nbsp; |
+| **11**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week11-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week11-Thursday.pdf)** &nbsp;&nbsp; |
+| **12**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week12-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week12-Thursday.pdf)** &nbsp;&nbsp; |
+| **13**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week13-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week13-Thursday.pdf)** &nbsp;&nbsp; |
+| **14**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week14-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week14-Thursday.pdf)** &nbsp;&nbsp; |
+| **15**         |**[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week15-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week15-Thursday.pdf)** &nbsp;&nbsp; |
 
 
 
