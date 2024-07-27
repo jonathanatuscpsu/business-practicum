@@ -110,20 +110,6 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 
 
 
-References:
-
-* [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) by Jake VanderPlas
-* [A Whirlwind Tour of Python](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) by Jake VanderPlas
-* [Spark: The Definitive Guide, 2018](https://learning.oreilly.com/library/view/spark-the-definitive/9781491912201/) by Matei Zaharia, Bill Chambers.
-* [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
-
-Book:
-- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html) 
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) 
-- [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730) 
-- [Effective Python](https://effectivepython.com/) 
-
 <!---Many materials are from [Dr. Yan Yu](https://business.uc.edu/faculty-and-research/departments/obais/faculty/yan-yu.html)’s class notes. Others: - [Make an interactive Power BI dashboard from scratch in 15 minutes.](https://jakevdp.github.io/WhirlwindTourOfPython/index.tml) (Power BI for Business Analytics) --->
 
 <!---Others:
