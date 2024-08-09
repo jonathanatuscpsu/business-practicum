@@ -77,8 +77,8 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 
 | Week          | Description  |
 |:-------------:|--------------|
-| **1**         |**[Course outline for Business Analytics Practicum](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week1-Tuesday.pdf)** &nbsp;&nbsp;  |
-|               |   **[Week 1,Thursday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week1-Thursday.pdf)** &nbsp;&nbsp; |
+| **1**         |**[Course outline for Business Analytics Practicum: data-driven projects, real-world application](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week1-Tuesday.pdf)** &nbsp;&nbsp;  |
+|               |   **[Course outline for Business Analytics Practicum: data-driven projects, real-world application (cont'd)](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week1-Thursday.pdf)** &nbsp;&nbsp; |
 | **2**         |**[Week 2, Tuesday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week2-Tuesday.pdf)** &nbsp;&nbsp;  |
 |               |   **[Week 2,Thursday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week2-Thursday.pdf)** &nbsp;&nbsp; |
 | **3**         |**[Week 3, Tuesday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week3-Tuesday.pdf)** &nbsp;&nbsp;  |
