@@ -1,5 +1,10 @@
 title: "Business Practicum"
-theme: jekyll-theme-cayman
-description: "By Zhaohu (Jonathan) Fan <br /> ''Life is (You need Python).'' ---Bruce Eckel"
+theme: jekyll-theme-minimal
+
+description: >
+  By Zhaohu (Jonathan) Fan <br />
+  "Life is short (You need Python)." — Bruce Eckel
+
+show_downloads: false
 github:
   is_project_page: false
