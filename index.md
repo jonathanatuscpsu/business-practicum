@@ -34,7 +34,7 @@ This practicum is intended to allow students to exercise their creative, questio
 
 
 ## Class Information
-* Instructor: **Zhaohu (Jonathan) Fan](https://www.scheller.gatech.edu/directory/faculty/fan/index.html)**, Ph.D.  
+* Instructor: **[Zhaohu (Jonathan) Fan](https://www.scheller.gatech.edu/directory/faculty/fan/index.html)**, Ph.D.  
 * Office Information: Scheller 4144 (Scheller College of Business, Room 4144) 
 * Email: jonathan.fan@scheller.gatech.edu
 * When:  Tuesdays  & Thursdays 5:00 pm-6:15pm
