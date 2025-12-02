@@ -34,7 +34,7 @@ This practicum is intended to allow students to exercise their creative, questio
 
 
 ## Class Information
-* Instructor: Zhaohu (Jonathan) Fan, Ph.D.
+* Instructor: **Zhaohu (Jonathan) Fan](https://www.scheller.gatech.edu/directory/faculty/fan/index.html)**, Ph.D.  
 * Office Information: Scheller 4144 (Scheller College of Business, Room 4144) 
 * Email: jonathan.fan@scheller.gatech.edu
 * When:  Tuesdays  & Thursdays 5:00 pm-6:15pm
@@ -109,9 +109,11 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 | **15**         |**[Week 15, Tuesday](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week15-Tuesday.pdf)** &nbsp;&nbsp;  |
 
 
+---
 
+*Go Jackets! 🐝*
 
-<!---Many materials are from [Dr. Yan Yu](https://business.uc.edu/faculty-and-research/departments/obais/faculty/yan-yu.html)’s class notes. Others: - [Make an interactive Power BI dashboard from scratch in 15 minutes.](https://jakevdp.github.io/WhirlwindTourOfPython/index.tml) (Power BI for Business Analytics) --->
+<!---Others: - [Make an interactive Power BI dashboard from scratch in 15 minutes.](https://jakevdp.github.io/WhirlwindTourOfPython/index.tml) (Power BI for Business Analytics) --->
 
 <!---Others:
 - [Make an interactive Power BI dashboard from scratch in 15 minutes.](https://jakevdp.github.io/WhirlwindTourOfPython/index.tml) (R)--->
